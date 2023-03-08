@@ -1,0 +1,2 @@
+NOTION_KEY = <Your Notion Key>
+NOTION_DATABASE = <Your Database ID>
